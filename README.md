@@ -1,1 +1,1 @@
-# terminsurance-bot
+# AI Term Insurance Advisor
