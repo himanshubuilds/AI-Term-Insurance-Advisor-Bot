@@ -5,7 +5,7 @@ import json
 # --- CONFIGURATION ---
 # We will get this URL from Make.com in the next step.
 # For now, keep this placeholder.
-WEBHOOK_URL = https://hook.eu1.make.com/owa3p5nqer5mt7hnuh92ctd1pii2r5u2"
+WEBHOOK_URL = "https://hook.eu1.make.com/owa3p5nqer5mt7hnuh92ctd1pii2r5u2"
 
 st.set_page_config(page_title="Insurance Assistant", page_icon="🤖")
 
